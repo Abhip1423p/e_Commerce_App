@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193895598520",
+    "project_id": "my-project-1572539750931",
+    "storage_bucket": "my-project-1572539750931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193895598520:android:895e1ee3182d4b8b37674d",
+        "android_client_info": {
+          "package_name": "com.abhishek.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193895598520-v1cdf4jh9nd3b4cresi3ft4l6ijn7kqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtDKWp2BgHNC2f-daX4WR7g-R9oTOTnwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193895598520-v1cdf4jh9nd3b4cresi3ft4l6ijn7kqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
