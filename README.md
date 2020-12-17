@@ -1,7 +1,6 @@
+E-Commerce App which workes on both ios and android using flutter
 
 
-
-Flutter Android & iOS eCommerce app using Firebase Firestore.
 
 
 
